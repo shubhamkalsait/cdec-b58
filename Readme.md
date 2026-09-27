@@ -15,4 +15,6 @@ git commit -m "<MESSAGE>" # create new commit with message
 git revert <COMMIT_ID> # to revert the commit with new commit
 git restore --staged <FILENAME> # to unstage the changes / to remove changes from staging area
 git restore <FILENAME> # undo untracked changes
+git config --global user.name "shubhamk" # update user name signature (username)
+git config --global user.email "sk@cbz.com"  # update user email signature (useremail)
 ```
